@@ -1,2 +1,2 @@
 # do-van-khang
-Test-Challenge
+Test-Challenge, i have write detail readme file in each problem
